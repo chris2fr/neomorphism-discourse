@@ -290,11 +290,14 @@ nav.post-controls .actions button.create .d-icon{
     background: var(--primary-low-mid)!important;
     color:#fff!important;
 }
-.toggle-admin-menu:hover
+.toggle-admin-menu:hover 
 {
     background: linear-gradient(#f2f3f6 0%, #e5e6ec 100%) !important;
     box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
 }
+
+
+
 .btn[href]
 {
     background-color:var(--tertiary);

@@ -4,8 +4,8 @@ en:
     subhead: "We're happy to have you here. If you need help, please search before you post."
   close:
     title: Close the banner
-    label: Close
+    label: ""
   toggle:
     title: Expand/Collapse the banner
-    collapse_label: Collapse
-    expand_label: Expand
+    collapse_label: ""
+    expand_label: ""

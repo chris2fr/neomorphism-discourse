@@ -4,8 +4,8 @@ fr:
     subhead: "Content de votre visite."
   close:
     title: Fermer le bandeaulose the banner
-    label: Fermer
+    label: ""
   toggle:
     title: Agrandir/minimiser le bandeau
-    collapse_label: Minimiser
-    expand_label: Agrandir
+    collapse_label: ""
+    expand_label: ""
