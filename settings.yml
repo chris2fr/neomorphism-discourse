@@ -1,13 +1,13 @@
 Heading:
-  default: "Twimbit"
+  default: "Marketing Help Center"
   max: 2500
   description:
-    en: "The world is moved by ideas and technology!"
+    en: "MCCS Iwakuni"
 Blurb:
-  default: "Ius vitae ornatus at, ei mea sumo quot dicant. Ei tale democritum eos, in mea timeam accumsan forensibus. Ei his aperiam suavitate. Et debitis convenire sea, viris dictas latine."
+  default: ""
   max: 180
   description:
-    en: "Enter a short blurb about your community - Max length 180 characters"
+    en: "Where we help you identify, anticipate, and satisfy your requirements profitably."
 Link_sections:
   type: list
   list_type: simple

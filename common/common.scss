@@ -328,7 +328,6 @@ nav.post-controls .actions button.create .d-icon{
 }
 
 .topic-body .topic-meta-data{
-    background: rgb(225, 238, 249);
     display: flex;
     padding: 20px 40px 20px 20px;
     align-items: center;
@@ -388,14 +387,8 @@ hr {
     text-align: left;
     color: #575F6B!important;
     border: 1px solid rgba(0, 0, 0, 0);
-    text-shadow: 0px 3px 6px rgba(44, 48, 54, 0.25);
     backdrop-filter: blur(30px);
     --webkit-backdrop-filter: blur(30px);
-}
-tbody {
-    border-top: 1px solid #575f6b!important;
-    background: transparent;
-    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.16));
 }
 
 .full-width {
@@ -685,7 +678,7 @@ $max-width: 700px;
         z-index: 2;
         order: 2;
         right: 0;
-        background: linear-gradient(var(--tertiary) 0%, var(--highlight)100%);
+        background: #27428b;
         border-radius: 83px;
         padding: 10px 20px;
         height:43px;
@@ -762,7 +755,7 @@ input[type="text"]:focus{
 
 }
 .custom-search-banner-wrap .search-icon:hover{
-    background: linear-gradient(var(--tertiary) 0%, var(--highlight)100%)!important;
+    background: #e64e67 !important;
     color:var(--secondary)!important;
 }
 
