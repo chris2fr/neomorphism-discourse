@@ -2,10 +2,6 @@ fr:
   search_banner:
     headline: "Bienvenue à la communauté"
     subhead: "Content de votre visite."
-
----
-
-fr:
   close:
     title: Fermer le bandeaulose the banner
     label: Fermer
