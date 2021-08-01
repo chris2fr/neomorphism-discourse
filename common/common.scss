@@ -219,14 +219,15 @@ ul, dd{
     border-radius: 8px;
 }
 .discourse-no-touch .btn-primary:hover, .discourse-no-touch .btn-primary.btn-hover {
-    background-color:#EFA6A9;
+    background-color:var(--tertiary);
     opacity: 0.74;
 }
  .btn.btn-hover{
-    background-color:#EFA6A9;
+    background-color:var(--tertiary);
 }
 .btn .d-icon{
-    color:white;
+    background-color:var(--tertiary);
+    color:var(--secondary)
 }
 
 #topic-footer-buttons .pinned-button .reason, #topic-footer-buttons .topic-notifications-button .reason{
@@ -296,6 +297,7 @@ nav.post-controls .actions button.create .d-icon{
 }
 .btn[href]
 {
+    background-color:var(--tertiary);
     color:#fff!important;
 }
 .nav-pills>li a.active{
