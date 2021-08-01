@@ -224,7 +224,7 @@ ul, dd{
     color:var(--primary);
     opacity: 0.74;
 }
- .btn.btn-hover{
+.btn.btn-hover{
     background-color:var(--secondary);
     color:var(--primary);
 }
@@ -294,7 +294,7 @@ nav.post-controls .actions button.create .d-icon{
     color:#fff!important;
 }
 .btn:hover {
-    background: var(--primary-low-mid)!important;
+    background: var(--primary-low-mid);/*!important;*/
     /*color:#fff!important;*/
     color:var(--secondary);
 }
