@@ -1,0 +1,15 @@
+fr:
+  search_banner:
+    headline: "Bienvenue à la communauté"
+    subhead: "Content de votre visite."
+
+---
+
+en:
+  close:
+    title: Fermer le bandeaulose the banner
+    label: Fermer
+  toggle:
+    title: Agrandir/minimiser le bandeau
+    collapse_label: Minimiser
+    expand_label: Agrandir

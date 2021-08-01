@@ -1,5 +1,8 @@
-# Neomorphism Discourse theme
+# Les Grands Voisins (L-G-V) Neomorphism Discourse theme
+
 Discourse theme with neomorphism design 
+
+https://www-l-g-v.com
 
 [![Twimbit](https://img.shields.io/badge/Powered%20by%20%7C-Twimbit-ef6d6c)](https://twimbit.com) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/twimbit/neomorphism-discourse) ![Discourse posts](https://img.shields.io/discourse/posts?server=https%3A%2F%2Fmeta.discourse.org%2Ft%2Fneomorphism-a-modern-theme-for-discourse%2F188657)
 ||||
@@ -14,6 +17,7 @@ Discourse theme with neomorphism design
 | Contributors                                           |
 | ------------------------------------------------------------ |
 | Shalini Bose [(@shalinibose)](https://github.com/shalinibose) |
-| Siddhant Kumar [(@siddhantdante)](https://github.com/siddhantdante) | 
-| Aman Sharma [(@amanintech)](https://github.com/amanintech)   |
+| Siddhant Kumar [(@siddhantdante)](https://github.com/siddhantdante) |
+| Aman Sharma [(@amanintech)](https://github.com/amanintech)          |
+| Chris Mann [(@chris2fr)](https://github.com/chris2fr)               |
 
