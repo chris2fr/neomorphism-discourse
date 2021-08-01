@@ -2,40 +2,47 @@ Heading:
   default: "Twimbit"
   max: 2500
   description:
-    en: "The world is moved by ideas and technology!"
+    en: "L'autre est une chance !"
+    fr: "Otherness is wonderful!"
 Blurb:
-  default: "Ius vitae ornatus at, ei mea sumo quot dicant. Ei tale democritum eos, in mea timeam accumsan forensibus. Ei his aperiam suavitate. Et debitis convenire sea, viris dictas latine."
+  default: "Aujourd'hui nous pouvons décider de quel(lle) voisin(e) en tant qu'individu ou en tant qu'organisation que nous voulons être."
   max: 180
   description:
     en: "Enter a short blurb about your community - Max length 180 characters"
+    fr: "Décrire briév7evement votre communauté - Max 180 cars"
 Link_sections:
   type: list
   list_type: simple
-  default: "Company, Learn new things!|Business, Start a new career!|Shop, Buy cool stuff!|Community, The latest news about the people you care about!|World, Check out what's happening"
+  default: "ESS, Economie sociale et solidaire|Services Sociaux, Inclure les visiblement et invisiblement marginalisés|Service Public, Inviter la direction et soutien de l'Etat et des collectivités territorials|Gazette Hebdomadaire, Soyez informé(e)"
   description:
     en: "Add link sections. The ideal number of sections is six. One item per line in this order:<br> Text, title<br><b>Text:</b> what appears on in the footer<br><b>Title:</b> the text that appears when the item is hovered."
+    fr: "Ajouter des link sections. The ideal number of sections is six. One item per line in this order:<br> Text, title<br><b>Text:</b> what appears on in the footer<br><b>Title:</b> the text that appears when the item is hovered."
 Links:
   type: list
   list_type: simple
-  default: "Design, Design process, #, blank, Learn the basics|Design, Blog design, #, blank, What makes for a great blog?|Design, Photoshop tutorials, #, blank, Photoshop for beginners|Design, Design trends, #, blank, Stay on top of the current trends!|Code, Wordpress, #, blank, Wordpress code examples|Code, Tools, #, blank, Tools that will make your life easier!|Code, Tutorials, #, blank, Just starting out? We'll guide you through the basics|Business, Blogging, #, blank, Why not start a blog?|Business, Social media, #, blank, Learn how to leverage Social media and make it work for your business|Business, Make money, #, blank, Everyone likes to be paid!|Business, Marketing, #, blank, No business will survive without customers...Here's how to get'em!|Shop, Vectors, #, blank, buy vectors|Shop, Textures, #, blank, buy textures|Shop, UI kits, #, blank, buy UI kits|Shop, PSDs, #, blank, Ready-made PSD's|Community, Your corner, #, blank, Tell us how you feel!|Community, Questions, #, blank, Feel like answering some questions?|Community, Members, #, blank, Say hi to new members|Community, trending, #, blank, Catch up with the latest trending topics!|World, Politics, #, blank, Stay up to date|World, Education, #, blank, The latest research|World, Automotive, #, blank, We cover the latest models!|World, Sports, #, The latest scores|World, Tech, #, Never miss a new gadget"
+  default: "ESS, Nouvelles, https://mailing.lesgrandsvoisins.com/c/pro/9, blank, Nouvelles de nos voisins artistes, artisans, associations et entreprises sociales et solidaires.|ESS, Nos Voisins, #, blank, Nos voisins artistes, artisans, associations et entreprises sociales et solidaires|ESS, Devenez Voisin(e), #, blank, Abonneé-vous à nos services|Grand Public, Nouvelles, https://mailing.lesgrandsvoisins.com/c/grand-public/8 , blank, Venez aux évènements aue nous proposons|Grand Public, Informez-Vous, #, blank, Consulter l'historique des Grands voisins |Grand Public, Opportunités de Bénévolat, #, blank, Trouvez là où vous pouvez faire une différence.|Services Sociaux, Nouvelles, https://mailing.lesgrandsvoisins.com/c/social/10, blank, Voyez nos sujets dans le domaine des services sociaux.|Services Sociaux, Pourquoi Vous Associer?, #, blank, Les grands acteurs dans les services sociaux peuvent bénéficier de Les Grands Voisins et nous en être bénéfique aussi.|Service Public, Nouvelles, https://mailing.lesgrandsvoisins.com/c/civil-service/11, blank, Voici nos nouvelles pour le service public. |Gazette Hebdomadaire, Inscrive-Vous, https://list.lesgrandsvoisins.com/subscription/form, Inscrivew-vous à notre Mailing List, _new|Gazette Hebdomadaire, Derniers numéros, #, blank, Lisez nos numéros précédents"
   description:
     en: "Add links to link sections. One item per line in this order:<br>Parent, text, URL, target, title<br>It is a good idea to keep the number of links under each section similar<br><b>Parent:</b> the name of the parent section which this link shows under. Use the `text` value from the list above<br><b>Text:</b> the text that shows for this link<br><b>URL:</b> the path this item links to. You can use relative paths as well.<br><b>Target:</b> Choose whether this item will open in a new tab or in the same tab. Use blank to open the link in a new tab, or use self to open it in the same tab.<br><b>Title:</b> the text that shows when the link is hovered."
+    fr: "Ajouter links to link sections. One item per line in this order:<br>Parent, text, URL, target, title<br>It is a good idea to keep the number of links under each section similar<br><b>Parent:</b> the name of the parent section which this link shows under. Use the `text` value from the list above<br><b>Text:</b> the text that shows for this link<br><b>URL:</b> the path this item links to. You can use relative paths as well.<br><b>Target:</b> Choose whether this item will open in a new tab or in the same tab. Use blank to open the link in a new tab, or use self to open it in the same tab.<br><b>Title:</b> the text that shows when the link is hovered."
 Small_links:
   type: list
   list_type: simple
-  default: "Privacy, #, self|Terms of service, #, self| About, #, self"
+  default: "Privacy, /provacy, self|Terms of service, /tos, self| About, /about, self"
   description:
     en: "You can add small links at the bottom of the footer like Terms of Service and Privacy. One item per line in this order:<br>Text, URL, target<br><b>Text:</b> The text that shows for the small link<br><b>URL:</b> The path of the link<br><b>Target:</b> Use blank to open the link in a new tab and use self to open it in the same tab"
+    fr: "Vous pouvew ajouter small links at the bottom of the footer like Terms of Service and Privacy. One item per line in this order:<br>Text, URL, target<br><b>Text:</b> The text that shows for the small link<br><b>URL:</b> The path of the link<br><b>Target:</b> Use blank to open the link in a new tab and use self to open it in the same tab"
 Social_links:
   type: list
   list_type: simple
   default: "Facebook, Join us on Facebook, #, blank,fab-facebook|Twitter, show some love on Twitter, #, blank,fab-twitter| Youtube, Check out our latest videos on Youtube, #, blank,fab-youtube"
   description:
     en: "Enter the social links you'd like to add to the footer in this format:<br> provider, title, URL, target<br><b>Provider:</b> is the name of the provider like Facebook or Twitter<br><b>Title:</b> The text that shows when the link is hovered<br><b>URL:</b> The path you'd like the link to have<br><b>Target:</b> Use blank to open the link in a new tab and use self to open it in the same tab<br><b>Icon:</b> use a FontAwesome5 icon name (brand icons need a 'fab-' prefix)."
+    fr: "Saisir the social links you'd like to add to the footer in this format:<br> provider, title, URL, target<br><b>Provider:</b> is the name of the provider like Facebook or Twitter<br><b>Title:</b> The text that shows when the link is hovered<br><b>URL:</b> The path you'd like the link to have<br><b>Target:</b> Use blank to open the link in a new tab and use self to open it in the same tab<br><b>Icon:</b> use a FontAwesome5 icon name (brand icons need a 'fab-' prefix)."
 Show_footer_on_login_required_page:
   default: true
   description:
     en: "Check this setting if you want the footer to be displayed on the login-required page (only applies if your site is private)"
+    fr: "Vérifier this setting if you want the footer to be displayed on the login-required page (only applies if your site is private)"
 svg_icons:
   default: "fab-facebook|fab-twitter|fab-youtube"
   type: "list"
