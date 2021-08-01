@@ -3,11 +3,16 @@
     <div class="flexbox">
       <div class="first-box">
         <div class="heading">
-<!--            <img src="https://twimbit.com/pages/assets/images/Twimbit%20Logo%20White.png" class="card-img-top" alt="..." height="84px">-->
-            <img src="{{mainHeading}}" class="card-img-top" alt="Logo" height="84px">
+         <img src="https://community.blockstudy.app/uploads/default/original/1X/48acca0b1e6bb221c6cfec156c40b1aed0c68041.png" class="card-img-top" alt="..." height="84px">
+            {{!-- <img src="{{mainHeading}}" class="card-img-top" alt="Logo" height="84px"> --}}
         </div>
         <div class="blurb">
           {{blurb}}
+        </div>
+         <div class="social">
+          {{#each socialLinks as |link|}}
+            <a class="social-link {{link.className}}" title="{{link.title}}" target="{{link.target}}" href="{{link.href}}">{{d-icon link.icon}}</a>
+          {{/each}}
         </div>
       </div>
       <div class="second-box">
@@ -36,11 +41,9 @@
               <a class="small-link {{link.className}}" title="{{link.title}}" target="{{link.target}}" href="{{link.href}}">{{link.text}}</a>
           {{/each}}
         </div>
-        <div class="social">
-          {{#each socialLinks as |link|}}
-            <a class="social-link {{link.className}}" title="{{link.title}}" target="{{link.target}}" href="{{link.href}}">{{d-icon link.icon}}</a>
-          {{/each}}
-        </div>
+      <div class="social">
+        <a class="footer-links">Made with️ ❤️ in India © 2021 BlockStudy</a>
+      </div>
       </div>
     </div>
   </div>
